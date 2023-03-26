@@ -56,6 +56,7 @@ function checkValue() {
             
         }
     }
+    playerAnswer.value=``
 }
 
 function playAgain(){
